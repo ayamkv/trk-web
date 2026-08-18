@@ -48,3 +48,15 @@ h1 {
   letter-spacing: 0;
   text-transform: uppercase;
 }
+
+.contact {
+  margin: 0;
+  font-size: 1rem;
+  line-height: 1.5;
+  color: #cfc8bc;
+}
+
+.contact a {
+  color: #f4f1ec;
+  text-underline-offset: 4px;
+}

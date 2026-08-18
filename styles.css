@@ -49,14 +49,16 @@ h1 {
   text-transform: uppercase;
 }
 
-.contact {
+.contact,
+.social {
   margin: 0;
   font-size: 1rem;
   line-height: 1.5;
   color: #cfc8bc;
 }
 
-.contact a {
+.contact a,
+.social a {
   color: #f4f1ec;
   text-underline-offset: 4px;
 }
